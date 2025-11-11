@@ -1,6 +1,5 @@
 package layers.api.dto.accountDTO;
 
-import com.NBWallet.layers.api.models.AccountPlan;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
