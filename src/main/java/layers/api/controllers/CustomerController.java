@@ -33,6 +33,7 @@ public class CustomerController extends ApiRequest {
                 .build();
     }
 
+    //checking git
     public AccountResponseDto getAllAccounts(){
         this.response = get(getEndpoint(API.getPath(),V1.getPath(), ACCOUNT.getPath()));
         return this.response.as(AccountResponseDto.class);
