@@ -18,7 +18,7 @@ import static layers.api.enums.Endpoints.*;
 
 public class ManagerController extends ApiRequest {
 
-//checking git fetch
+//checking git fetch2
     public ManagerController(String URL, AuthStrategy token) {
         super(URL, token);
         this.URL = URL;
