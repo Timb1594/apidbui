@@ -19,7 +19,7 @@ import layers.api.utils.ObjectConverter;
 
 import static layers.api.enums.Endpoints.*;
 
-//checking git fetch
+
 public class CustomerController extends ApiRequest {
     public CustomerController(String URL, AuthStrategy token) {
         super(URL, token);
@@ -33,8 +33,6 @@ public class CustomerController extends ApiRequest {
                 .build();
     }
 
-    //checking git
-    // git has been checked locally
     public AccountResponseDto getAllAccounts(){
         this.response = get(getEndpoint(API.getPath(),V1.getPath(), ACCOUNT.getPath()));
         return this.response.as(AccountResponseDto.class);
