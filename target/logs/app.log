@@ -1,0 +1,361 @@
+2025-11-04 20:01:50 [Test worker] INFO  ApiRequest - Performed GET manager-api/v1/customers
+2025-11-04 20:01:50 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 308,
+            "firstName": "Tugolbai",
+            "lastName": "Eraliev",
+            "email": "tukeeraliev@gmail.com",
+            "phoneNumber": "0700171719",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 307,
+            "firstName": "Ellis",
+            "lastName": "Deckow",
+            "email": "gregory.green@gmail.com",
+            "phoneNumber": "+996444031396",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 306,
+            "firstName": "tim",
+            "lastName": "timov",
+            "email": "temirlan15942@gmail.com",
+            "phoneNumber": "8143008936",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 305,
+            "firstName": "ывывы",
+            "lastName": "ыввыв",
+            "email": "gfdgdf@mail.ru",
+            "phoneNumber": "0700171719",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 304,
+            "firstName": "Maratov",
+            "lastName": "Kairat",
+            "email": "qairatman1@gmail.com",
+            "phoneNumber": "+996709334480",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 303,
+            "firstName": "Maratov",
+            "lastName": "Kairat",
+            "email": "qairatman@gmail.com",
+            "phoneNumber": "+996709334480",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 302,
+            "firstName": "Amado",
+            "lastName": "Cormier",
+            "email": "garth.adams@hotmail.com",
+            "phoneNumber": "+996265046044",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 301,
+            "firstName": "Giovanni",
+            "lastName": "Pfannerstill",
+            "email": "abraham.frami@gmail.com",
+            "phoneNumber": "+996058302940",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 298,
+            "firstName": "Hipolito",
+            "lastName": "Koepp",
+            "email": "johnathon.hackett@gmail.com",
+            "phoneNumber": "+996130681323",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 297,
+            "firstName": "Layla",
+            "lastName": "Kautzer",
+            "email": "dannie.balistreri@yahoo.com",
+            "phoneNumber": "+996382737658",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 30,
+    "totalCount": 296,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
+2025-11-04 20:01:50 [Test worker] INFO  ApiRequest - Performed GET manager-api/v1/account-plans
+2025-11-04 20:01:50 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 461,
+            "name": "Argentum",
+            "annualServicePrice": 32.00
+        },
+        {
+            "id": 460,
+            "name": "Zink",
+            "annualServicePrice": 29.00
+        },
+        {
+            "id": 459,
+            "name": "Iron",
+            "annualServicePrice": 50.00
+        },
+        {
+            "id": 458,
+            "name": "Brilliant",
+            "annualServicePrice": 300.00
+        },
+        {
+            "id": 457,
+            "name": "fund1",
+            "annualServicePrice": 500.00
+        },
+        {
+            "id": 456,
+            "name": "string",
+            "annualServicePrice": 0.00
+        },
+        {
+            "id": 455,
+            "name": "Stacee",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 454,
+            "name": "Ivey",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 453,
+            "name": "Jayna",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 452,
+            "name": "Madelene",
+            "annualServicePrice": 4000.00
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 45,
+    "totalCount": 447,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
+2025-11-04 20:03:27 [Test worker] INFO  ApiRequest - Performed GET api/v1/account
+2025-11-04 20:03:27 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 247,
+            "number": "00000000247",
+            "balance": 0.00,
+            "currency": 0,
+            "status": 0,
+            "accountPlan": {
+                "id": 458,
+                "name": "Brilliant",
+                "annualServicePrice": 300.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-11-01T11:31:38.899968Z"
+        },
+        {
+            "id": 245,
+            "number": "00000000236",
+            "balance": 0.00,
+            "currency": 0,
+            "status": 0,
+            "accountPlan": {
+                "id": 458,
+                "name": "Brilliant",
+                "annualServicePrice": 300.00
+            },
+            "accountTransactionLimit": {
+                "isPermanently": true,
+                "fromDate": "2025-10-24T09:10:04.286Z",
+                "toDate": "2025-10-24T09:10:04.286Z",
+                "amount": 10.00
+            },
+            "createdDate": "2025-10-27T11:23:01.435829Z"
+        },
+        {
+            "id": 235,
+            "number": "00000000235",
+            "balance": 0.00,
+            "currency": 0,
+            "status": 0,
+            "accountPlan": {
+                "id": 458,
+                "name": "Brilliant",
+                "annualServicePrice": 300.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-27T11:19:16.975673Z"
+        },
+        {
+            "id": 219,
+            "number": "00000000219",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T13:04:28.092097Z"
+        },
+        {
+            "id": 218,
+            "number": "00000000218",
+            "balance": 100.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T13:04:27.958386Z"
+        },
+        {
+            "id": 217,
+            "number": "00000000217",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T12:59:04.933922Z"
+        },
+        {
+            "id": 216,
+            "number": "00000000216",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T12:59:04.80086Z"
+        },
+        {
+            "id": 215,
+            "number": "00000000215",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T12:58:18.45139Z"
+        },
+        {
+            "id": 214,
+            "number": "00000000214",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T12:57:57.292878Z"
+        },
+        {
+            "id": 142,
+            "number": "00000000142",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 453,
+                "name": "Jayna",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": {
+                "isPermanently": true,
+                "fromDate": "2025-10-22T08:38:34.927Z",
+                "toDate": "2025-10-22T08:38:34.927Z",
+                "amount": 100.00
+            },
+            "createdDate": "2025-10-17T08:53:53.452782Z"
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 2,
+    "totalCount": 14,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
+2025-11-04 20:40:35 [Test worker] INFO  ApiRequest - Performed POST api/v1/authentication/signup
+2025-11-04 20:40:35 [Test worker] INFO  ApiRequest - Body is {"firstName":"Alexis","lastName":"Douglas","email":"isaias.yost@yahoo.com","phoneNumber":"+996455544691","deleted":false,"password":"Hkywe_26@"}
+2025-11-04 21:09:15 [Test worker] INFO  ApiRequest - Performed POST (multipart) api/v1/authentication/signup
+2025-11-04 21:26:04 [Test worker] INFO  ApiRequest - Performed POST (multipart) api/v1/authentication/signup
+2025-11-04 21:28:10 [Test worker] INFO  ApiRequest - Performed POST (multipart) api/v1/authentication/signup
+2025-11-04 21:28:10 [Test worker] INFO  ApiRequest - Response status: 201
+2025-11-04 21:28:10 [Test worker] WARN  ApiRequest - Response is 
+
+2025-11-04 21:28:10 [Test worker] INFO  ApiRequest - Performed POST (multipart) api/v1/authentication/signup
+2025-11-04 21:28:11 [Test worker] INFO  ApiRequest - Response status: 201
+2025-11-04 21:28:11 [Test worker] WARN  ApiRequest - Response is 
+
+2025-11-04 21:28:37 [Test worker] INFO  ApiRequest - Performed POST (multipart) api/v1/authentication/signup
+2025-11-04 21:28:38 [Test worker] INFO  ApiRequest - Response status: 201
+2025-11-04 21:28:38 [Test worker] WARN  ApiRequest - Response is 
+
+2025-11-04 21:28:38 [Test worker] INFO  ApiRequest - Performed POST (multipart) api/v1/authentication/signup
+2025-11-04 21:28:38 [Test worker] INFO  ApiRequest - Response status: 201
+2025-11-04 21:28:38 [Test worker] WARN  ApiRequest - Response is 
+
+2025-11-04 21:29:04 [Test worker] INFO  ApiRequest - Performed POST (multipart) api/v1/authentication/signup
+2025-11-04 21:29:06 [Test worker] INFO  ApiRequest - Response status: 201
+2025-11-04 21:29:06 [Test worker] WARN  ApiRequest - Response is 
+
+2025-11-04 21:29:06 [Test worker] INFO  ApiRequest - Performed POST (multipart) api/v1/authentication/signup
+2025-11-04 21:29:07 [Test worker] INFO  ApiRequest - Response status: 201
+2025-11-04 21:29:07 [Test worker] WARN  ApiRequest - Response is 
+

@@ -1,0 +1,1063 @@
+2025-11-01 13:45:38 [Test worker] INFO  ApiRequest - Performed GET manager-api/v1/customers
+2025-11-01 13:45:38 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 306,
+            "firstName": "tim",
+            "lastName": "timov",
+            "email": "temirlan15942@gmail.com",
+            "phoneNumber": "8143008936",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 305,
+            "firstName": "ывывы",
+            "lastName": "ыввыв",
+            "email": "gfdgdf@mail.ru",
+            "phoneNumber": "0700171719",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 304,
+            "firstName": "Maratov",
+            "lastName": "Kairat",
+            "email": "qairatman1@gmail.com",
+            "phoneNumber": "+996709334480",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 303,
+            "firstName": "Maratov",
+            "lastName": "Kairat",
+            "email": "qairatman@gmail.com",
+            "phoneNumber": "+996709334480",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 302,
+            "firstName": "Amado",
+            "lastName": "Cormier",
+            "email": "garth.adams@hotmail.com",
+            "phoneNumber": "+996265046044",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 301,
+            "firstName": "Giovanni",
+            "lastName": "Pfannerstill",
+            "email": "abraham.frami@gmail.com",
+            "phoneNumber": "+996058302940",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 298,
+            "firstName": "Hipolito",
+            "lastName": "Koepp",
+            "email": "johnathon.hackett@gmail.com",
+            "phoneNumber": "+996130681323",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 297,
+            "firstName": "Layla",
+            "lastName": "Kautzer",
+            "email": "dannie.balistreri@yahoo.com",
+            "phoneNumber": "+996382737658",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 296,
+            "firstName": "Vance",
+            "lastName": "Langosh",
+            "email": "alaine.fadel@yahoo.com",
+            "phoneNumber": "+996467868123",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 295,
+            "firstName": "Rosendo",
+            "lastName": "MacGyver",
+            "email": "melonie.mitchell@hotmail.com",
+            "phoneNumber": "+996543980013",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 30,
+    "totalCount": 294,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
+2025-11-01 13:45:38 [Test worker] INFO  ApiRequest - Performed GET manager-api/v1/account-plans
+2025-11-01 13:45:38 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 458,
+            "name": "Brilliant",
+            "annualServicePrice": 300.00
+        },
+        {
+            "id": 457,
+            "name": "fund1",
+            "annualServicePrice": 500.00
+        },
+        {
+            "id": 456,
+            "name": "string",
+            "annualServicePrice": 0.00
+        },
+        {
+            "id": 455,
+            "name": "Stacee",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 454,
+            "name": "Ivey",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 453,
+            "name": "Jayna",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 452,
+            "name": "Madelene",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 451,
+            "name": "David",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 450,
+            "name": "Nolan",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 449,
+            "name": "Jamel",
+            "annualServicePrice": 4000.00
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 45,
+    "totalCount": 444,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
+2025-11-01 13:53:30 [Test worker] INFO  ApiRequest - Performed GET manager-api/v1/customers
+2025-11-01 13:53:31 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 306,
+            "firstName": "tim",
+            "lastName": "timov",
+            "email": "temirlan15942@gmail.com",
+            "phoneNumber": "8143008936",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 305,
+            "firstName": "ывывы",
+            "lastName": "ыввыв",
+            "email": "gfdgdf@mail.ru",
+            "phoneNumber": "0700171719",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 304,
+            "firstName": "Maratov",
+            "lastName": "Kairat",
+            "email": "qairatman1@gmail.com",
+            "phoneNumber": "+996709334480",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 303,
+            "firstName": "Maratov",
+            "lastName": "Kairat",
+            "email": "qairatman@gmail.com",
+            "phoneNumber": "+996709334480",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 302,
+            "firstName": "Amado",
+            "lastName": "Cormier",
+            "email": "garth.adams@hotmail.com",
+            "phoneNumber": "+996265046044",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 301,
+            "firstName": "Giovanni",
+            "lastName": "Pfannerstill",
+            "email": "abraham.frami@gmail.com",
+            "phoneNumber": "+996058302940",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 298,
+            "firstName": "Hipolito",
+            "lastName": "Koepp",
+            "email": "johnathon.hackett@gmail.com",
+            "phoneNumber": "+996130681323",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 297,
+            "firstName": "Layla",
+            "lastName": "Kautzer",
+            "email": "dannie.balistreri@yahoo.com",
+            "phoneNumber": "+996382737658",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 296,
+            "firstName": "Vance",
+            "lastName": "Langosh",
+            "email": "alaine.fadel@yahoo.com",
+            "phoneNumber": "+996467868123",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 295,
+            "firstName": "Rosendo",
+            "lastName": "MacGyver",
+            "email": "melonie.mitchell@hotmail.com",
+            "phoneNumber": "+996543980013",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 30,
+    "totalCount": 294,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
+2025-11-01 13:53:31 [Test worker] INFO  ApiRequest - Performed GET manager-api/v1/account-plans
+2025-11-01 13:53:31 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 458,
+            "name": "Brilliant",
+            "annualServicePrice": 300.00
+        },
+        {
+            "id": 457,
+            "name": "fund1",
+            "annualServicePrice": 500.00
+        },
+        {
+            "id": 456,
+            "name": "string",
+            "annualServicePrice": 0.00
+        },
+        {
+            "id": 455,
+            "name": "Stacee",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 454,
+            "name": "Ivey",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 453,
+            "name": "Jayna",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 452,
+            "name": "Madelene",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 451,
+            "name": "David",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 450,
+            "name": "Nolan",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 449,
+            "name": "Jamel",
+            "annualServicePrice": 4000.00
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 45,
+    "totalCount": 444,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
+2025-11-01 13:55:28 [Test worker] INFO  ApiRequest - Performed GET manager-api/v1/customers
+2025-11-01 13:55:28 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 306,
+            "firstName": "tim",
+            "lastName": "timov",
+            "email": "temirlan15942@gmail.com",
+            "phoneNumber": "8143008936",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 305,
+            "firstName": "ывывы",
+            "lastName": "ыввыв",
+            "email": "gfdgdf@mail.ru",
+            "phoneNumber": "0700171719",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 304,
+            "firstName": "Maratov",
+            "lastName": "Kairat",
+            "email": "qairatman1@gmail.com",
+            "phoneNumber": "+996709334480",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 303,
+            "firstName": "Maratov",
+            "lastName": "Kairat",
+            "email": "qairatman@gmail.com",
+            "phoneNumber": "+996709334480",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 302,
+            "firstName": "Amado",
+            "lastName": "Cormier",
+            "email": "garth.adams@hotmail.com",
+            "phoneNumber": "+996265046044",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 301,
+            "firstName": "Giovanni",
+            "lastName": "Pfannerstill",
+            "email": "abraham.frami@gmail.com",
+            "phoneNumber": "+996058302940",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 298,
+            "firstName": "Hipolito",
+            "lastName": "Koepp",
+            "email": "johnathon.hackett@gmail.com",
+            "phoneNumber": "+996130681323",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 297,
+            "firstName": "Layla",
+            "lastName": "Kautzer",
+            "email": "dannie.balistreri@yahoo.com",
+            "phoneNumber": "+996382737658",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 296,
+            "firstName": "Vance",
+            "lastName": "Langosh",
+            "email": "alaine.fadel@yahoo.com",
+            "phoneNumber": "+996467868123",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 295,
+            "firstName": "Rosendo",
+            "lastName": "MacGyver",
+            "email": "melonie.mitchell@hotmail.com",
+            "phoneNumber": "+996543980013",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 30,
+    "totalCount": 294,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
+2025-11-01 13:55:28 [Test worker] INFO  ApiRequest - Performed GET manager-api/v1/account-plans
+2025-11-01 13:55:28 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 458,
+            "name": "Brilliant",
+            "annualServicePrice": 300.00
+        },
+        {
+            "id": 457,
+            "name": "fund1",
+            "annualServicePrice": 500.00
+        },
+        {
+            "id": 456,
+            "name": "string",
+            "annualServicePrice": 0.00
+        },
+        {
+            "id": 455,
+            "name": "Stacee",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 454,
+            "name": "Ivey",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 453,
+            "name": "Jayna",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 452,
+            "name": "Madelene",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 451,
+            "name": "David",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 450,
+            "name": "Nolan",
+            "annualServicePrice": 4000.00
+        },
+        {
+            "id": 449,
+            "name": "Jamel",
+            "annualServicePrice": 4000.00
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 45,
+    "totalCount": 444,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
+2025-11-01 15:34:04 [Test worker] INFO  ApiRequest - Performed POST manager-api/v1/account-plans
+2025-11-01 15:34:04 [Test worker] INFO  ApiRequest - Body is {"id":0,"annualServicePrice":0.0}
+2025-11-01 15:34:04 [Test worker] WARN  ApiRequest - Response is 
+{
+    "type": "https://tools.ietf.org/html/rfc9110#section-15.5.1",
+    "title": "One or more validation errors occurred.",
+    "status": 400,
+    "errors": {
+        "Name": [
+            "The Name field is required."
+        ]
+    },
+    "traceId": "00-d018908a15ce0aed53ff26bede33c288-1871beeaba0ac160-00"
+}
+2025-11-01 15:51:17 [Test worker] INFO  ApiRequest - Performed POST manager-api/v1/account-plans
+2025-11-01 15:51:17 [Test worker] INFO  ApiRequest - Body is {"id":0,"name":"Argentum","annualServicePrice":32.0}
+2025-11-01 15:51:17 [Test worker] WARN  ApiRequest - Response is 
+{
+    "id": 461,
+    "name": "Argentum",
+    "annualServicePrice": 32.0
+}
+2025-11-01 16:12:21 [Test worker] INFO  ApiRequest - Performed POST manager-api/v1/blacklists
+2025-11-01 16:12:21 [Test worker] INFO  ApiRequest - Body is {"accountNumber":"460","lockType":{"id":4,"name":"grey"}}
+2025-11-01 16:12:21 [Test worker] WARN  ApiRequest - Response is 
+{
+    "type": "https://tools.ietf.org/html/rfc9110#section-15.5.1",
+    "title": "One or more validation errors occurred.",
+    "status": 400,
+    "errors": {
+        "command": [
+            "The command field is required."
+        ],
+        "$.lockType": [
+            "The JSON value could not be converted to Domain.Enums.LockType. Path: $.lockType | LineNumber: 0 | BytePositionInLine: 35."
+        ]
+    },
+    "traceId": "00-1f1cdd51d4942121d68c8b730a703c1a-c1ee92ee832d8e63-00"
+}
+2025-11-01 16:28:13 [Test worker] INFO  ApiRequest - Performed POST manager-api/v1/blacklists
+2025-11-01 16:28:13 [Test worker] INFO  ApiRequest - Body is {"accountNumber":"460","lockType":"blacklist","command":"oo"}
+2025-11-01 16:28:13 [Test worker] WARN  ApiRequest - Response is 
+{
+    "type": "https://tools.ietf.org/html/rfc9110#section-15.5.1",
+    "title": "One or more validation errors occurred.",
+    "status": 400,
+    "errors": {
+        "command": [
+            "The command field is required."
+        ],
+        "$.lockType": [
+            "The JSON value could not be converted to Domain.Enums.LockType. Path: $.lockType | LineNumber: 0 | BytePositionInLine: 45."
+        ]
+    },
+    "traceId": "00-5cc05e73a564de6b07ace88fa7aaf2e7-3593550c83850328-00"
+}
+2025-11-01 16:46:47 [Test worker] INFO  ApiRequest - Performed GET manager-api/v1/transactions
+2025-11-01 16:46:47 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 114,
+            "number": "00000000114",
+            "sourceAccount": null,
+            "destinationAccount": {
+                "number": "00000000246",
+                "user": null
+            },
+            "fee": 0.00,
+            "amount": 9999.00,
+            "currency": "Usd",
+            "status": "Pending",
+            "created": "2025-11-01T09:37:55.923003Z",
+            "lastModified": null
+        },
+        {
+            "id": 113,
+            "number": "00000000113",
+            "sourceAccount": {
+                "number": "00000000233",
+                "user": null
+            },
+            "destinationAccount": {
+                "number": "00000000234",
+                "user": null
+            },
+            "fee": 0.00,
+            "amount": 1000.00,
+            "currency": "Usd",
+            "status": "Approved",
+            "created": "2025-10-27T06:26:25.063146Z",
+            "lastModified": "2025-10-27T06:26:25.389229Z"
+        },
+        {
+            "id": 112,
+            "number": "00000000112",
+            "sourceAccount": {
+                "number": "00000000231",
+                "user": null
+            },
+            "destinationAccount": {
+                "number": "00000000232",
+                "user": null
+            },
+            "fee": 0.00,
+            "amount": 1000.00,
+            "currency": "Usd",
+            "status": "Approved",
+            "created": "2025-10-24T13:51:55.276685Z",
+            "lastModified": "2025-10-24T13:51:55.702949Z"
+        },
+        {
+            "id": 111,
+            "number": "00000000111",
+            "sourceAccount": null,
+            "destinationAccount": {
+                "number": "00000000228",
+                "user": null
+            },
+            "fee": 0.00,
+            "amount": 9999.00,
+            "currency": "Usd",
+            "status": "Pending",
+            "created": "2025-10-24T13:22:51.260891Z",
+            "lastModified": null
+        },
+        {
+            "id": 110,
+            "number": "00000000110",
+            "sourceAccount": null,
+            "destinationAccount": {
+                "number": "00000000218",
+                "user": null
+            },
+            "fee": 0.00,
+            "amount": 1000.00,
+            "currency": "Usd",
+            "status": "Pending",
+            "created": "2025-10-24T13:04:28.232723Z",
+            "lastModified": null
+        },
+        {
+            "id": 109,
+            "number": "00000000109",
+            "sourceAccount": null,
+            "destinationAccount": {
+                "number": "00000000216",
+                "user": null
+            },
+            "fee": 0.00,
+            "amount": 1000.00,
+            "currency": "Usd",
+            "status": "Pending",
+            "created": "2025-10-24T12:59:05.067642Z",
+            "lastModified": null
+        },
+        {
+            "id": 108,
+            "number": "00000000108",
+            "sourceAccount": {
+                "number": "00000000212",
+                "user": null
+            },
+            "destinationAccount": {
+                "number": "00000000213",
+                "user": null
+            },
+            "fee": 0.00,
+            "amount": 200.00,
+            "currency": "Usd",
+            "status": "Pending",
+            "created": "2025-10-24T12:36:20.866975Z",
+            "lastModified": null
+        },
+        {
+            "id": 107,
+            "number": "00000000107",
+            "sourceAccount": {
+                "number": "00000000210",
+                "user": null
+            },
+            "destinationAccount": {
+                "number": "00000000211",
+                "user": null
+            },
+            "fee": 0.00,
+            "amount": 200.00,
+            "currency": "Usd",
+            "status": "Pending",
+            "created": "2025-10-24T12:32:21.927028Z",
+            "lastModified": null
+        },
+        {
+            "id": 106,
+            "number": "00000000106",
+            "sourceAccount": {
+                "number": "00000000206",
+                "user": null
+            },
+            "destinationAccount": {
+                "number": "00000000207",
+                "user": null
+            },
+            "fee": 0.00,
+            "amount": 200.00,
+            "currency": "Usd",
+            "status": "Pending",
+            "created": "2025-10-24T12:30:44.301046Z",
+            "lastModified": null
+        },
+        {
+            "id": 105,
+            "number": "00000000105",
+            "sourceAccount": {
+                "number": "00000000204",
+                "user": null
+            },
+            "destinationAccount": {
+                "number": "00000000205",
+                "user": null
+            },
+            "fee": 0.00,
+            "amount": 200.00,
+            "currency": "Usd",
+            "status": "Pending",
+            "created": "2025-10-24T12:09:03.603957Z",
+            "lastModified": null
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 11,
+    "totalCount": 108,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
+2025-11-01 17:18:01 [Test worker] INFO  ApiRequest - Performed GET api/v1/account
+2025-11-01 17:18:01 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 245,
+            "number": "00000000236",
+            "balance": 0.00,
+            "currency": 0,
+            "status": 0,
+            "accountPlan": {
+                "id": 458,
+                "name": "Brilliant",
+                "annualServicePrice": 300.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-27T11:23:01.435829Z"
+        },
+        {
+            "id": 235,
+            "number": "00000000235",
+            "balance": 0.00,
+            "currency": 0,
+            "status": 0,
+            "accountPlan": {
+                "id": 458,
+                "name": "Brilliant",
+                "annualServicePrice": 300.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-27T11:19:16.975673Z"
+        },
+        {
+            "id": 219,
+            "number": "00000000219",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T13:04:28.092097Z"
+        },
+        {
+            "id": 218,
+            "number": "00000000218",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T13:04:27.958386Z"
+        },
+        {
+            "id": 217,
+            "number": "00000000217",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T12:59:04.933922Z"
+        },
+        {
+            "id": 216,
+            "number": "00000000216",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T12:59:04.80086Z"
+        },
+        {
+            "id": 215,
+            "number": "00000000215",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T12:58:18.45139Z"
+        },
+        {
+            "id": 214,
+            "number": "00000000214",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T12:57:57.292878Z"
+        },
+        {
+            "id": 142,
+            "number": "00000000142",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 453,
+                "name": "Jayna",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": {
+                "isPermanently": true,
+                "fromDate": "2025-10-22T08:38:34.927Z",
+                "toDate": "2025-10-22T08:38:34.927Z",
+                "amount": 100.00
+            },
+            "createdDate": "2025-10-17T08:53:53.452782Z"
+        },
+        {
+            "id": 141,
+            "number": "00000000141",
+            "balance": 0.00,
+            "currency": 2,
+            "status": 0,
+            "accountPlan": {
+                "id": 453,
+                "name": "Jayna",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-17T08:21:22.11554Z"
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 2,
+    "totalCount": 13,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
+2025-11-01 17:19:46 [Test worker] INFO  ApiRequest - Performed GET api/v1/account
+2025-11-01 17:19:46 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 245,
+            "number": "00000000236",
+            "balance": 0.00,
+            "currency": 0,
+            "status": 0,
+            "accountPlan": {
+                "id": 458,
+                "name": "Brilliant",
+                "annualServicePrice": 300.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-27T11:23:01.435829Z"
+        },
+        {
+            "id": 235,
+            "number": "00000000235",
+            "balance": 0.00,
+            "currency": 0,
+            "status": 0,
+            "accountPlan": {
+                "id": 458,
+                "name": "Brilliant",
+                "annualServicePrice": 300.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-27T11:19:16.975673Z"
+        },
+        {
+            "id": 219,
+            "number": "00000000219",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T13:04:28.092097Z"
+        },
+        {
+            "id": 218,
+            "number": "00000000218",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T13:04:27.958386Z"
+        },
+        {
+            "id": 217,
+            "number": "00000000217",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T12:59:04.933922Z"
+        },
+        {
+            "id": 216,
+            "number": "00000000216",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T12:59:04.80086Z"
+        },
+        {
+            "id": 215,
+            "number": "00000000215",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T12:58:18.45139Z"
+        },
+        {
+            "id": 214,
+            "number": "00000000214",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 455,
+                "name": "Stacee",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-24T12:57:57.292878Z"
+        },
+        {
+            "id": 142,
+            "number": "00000000142",
+            "balance": 0.00,
+            "currency": 1,
+            "status": 0,
+            "accountPlan": {
+                "id": 453,
+                "name": "Jayna",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": {
+                "isPermanently": true,
+                "fromDate": "2025-10-22T08:38:34.927Z",
+                "toDate": "2025-10-22T08:38:34.927Z",
+                "amount": 100.00
+            },
+            "createdDate": "2025-10-17T08:53:53.452782Z"
+        },
+        {
+            "id": 141,
+            "number": "00000000141",
+            "balance": 0.00,
+            "currency": 2,
+            "status": 0,
+            "accountPlan": {
+                "id": 453,
+                "name": "Jayna",
+                "annualServicePrice": 4000.00
+            },
+            "accountTransactionLimit": null,
+            "createdDate": "2025-10-17T08:21:22.11554Z"
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 2,
+    "totalCount": 13,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}

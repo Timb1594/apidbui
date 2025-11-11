@@ -1,0 +1,222 @@
+2025-10-31 16:30:51 [Test worker] INFO  ApiRequest - Performed GET manager-api/v1/customers
+2025-10-31 16:30:51 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 305,
+            "firstName": "ывывы",
+            "lastName": "ыввыв",
+            "email": "gfdgdf@mail.ru",
+            "phoneNumber": "0700171719",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 304,
+            "firstName": "Maratov",
+            "lastName": "Kairat",
+            "email": "qairatman1@gmail.com",
+            "phoneNumber": "+996709334480",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 303,
+            "firstName": "Maratov",
+            "lastName": "Kairat",
+            "email": "qairatman@gmail.com",
+            "phoneNumber": "+996709334480",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 302,
+            "firstName": "Amado",
+            "lastName": "Cormier",
+            "email": "garth.adams@hotmail.com",
+            "phoneNumber": "+996265046044",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 301,
+            "firstName": "Giovanni",
+            "lastName": "Pfannerstill",
+            "email": "abraham.frami@gmail.com",
+            "phoneNumber": "+996058302940",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 298,
+            "firstName": "Hipolito",
+            "lastName": "Koepp",
+            "email": "johnathon.hackett@gmail.com",
+            "phoneNumber": "+996130681323",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 297,
+            "firstName": "Layla",
+            "lastName": "Kautzer",
+            "email": "dannie.balistreri@yahoo.com",
+            "phoneNumber": "+996382737658",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 296,
+            "firstName": "Vance",
+            "lastName": "Langosh",
+            "email": "alaine.fadel@yahoo.com",
+            "phoneNumber": "+996467868123",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 295,
+            "firstName": "Rosendo",
+            "lastName": "MacGyver",
+            "email": "melonie.mitchell@hotmail.com",
+            "phoneNumber": "+996543980013",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 294,
+            "firstName": "Tesha",
+            "lastName": "Gutkowski",
+            "email": "thad.runte@gmail.com",
+            "phoneNumber": "+996334865020",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 30,
+    "totalCount": 293,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
+2025-10-31 21:59:39 [Test worker] INFO  ApiRequest - Performed GET manager-api/v1/customers
+2025-10-31 21:59:40 [Test worker] WARN  ApiRequest - Response is 
+{
+    "items": [
+        {
+            "id": 305,
+            "firstName": "ывывы",
+            "lastName": "ыввыв",
+            "email": "gfdgdf@mail.ru",
+            "phoneNumber": "0700171719",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 304,
+            "firstName": "Maratov",
+            "lastName": "Kairat",
+            "email": "qairatman1@gmail.com",
+            "phoneNumber": "+996709334480",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 303,
+            "firstName": "Maratov",
+            "lastName": "Kairat",
+            "email": "qairatman@gmail.com",
+            "phoneNumber": "+996709334480",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 302,
+            "firstName": "Amado",
+            "lastName": "Cormier",
+            "email": "garth.adams@hotmail.com",
+            "phoneNumber": "+996265046044",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 301,
+            "firstName": "Giovanni",
+            "lastName": "Pfannerstill",
+            "email": "abraham.frami@gmail.com",
+            "phoneNumber": "+996058302940",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 298,
+            "firstName": "Hipolito",
+            "lastName": "Koepp",
+            "email": "johnathon.hackett@gmail.com",
+            "phoneNumber": "+996130681323",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 297,
+            "firstName": "Layla",
+            "lastName": "Kautzer",
+            "email": "dannie.balistreri@yahoo.com",
+            "phoneNumber": "+996382737658",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 296,
+            "firstName": "Vance",
+            "lastName": "Langosh",
+            "email": "alaine.fadel@yahoo.com",
+            "phoneNumber": "+996467868123",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 295,
+            "firstName": "Rosendo",
+            "lastName": "MacGyver",
+            "email": "melonie.mitchell@hotmail.com",
+            "phoneNumber": "+996543980013",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        },
+        {
+            "id": 294,
+            "firstName": "Tesha",
+            "lastName": "Gutkowski",
+            "email": "thad.runte@gmail.com",
+            "phoneNumber": "+996334865020",
+            "profileImage": "",
+            "userType": null,
+            "deleted": false
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 30,
+    "totalCount": 293,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
