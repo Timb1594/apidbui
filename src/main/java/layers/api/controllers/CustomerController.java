@@ -32,7 +32,7 @@ public class CustomerController extends ApiRequest {
                 .addHeader("Authorization", "Bearer "+token.getToken())
                 .build();
     }
-
+// check stash
     //checking git
     // git has been checked locally
     public AccountResponseDto getAllAccounts(){
