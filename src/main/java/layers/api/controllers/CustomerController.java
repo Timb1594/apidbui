@@ -32,9 +32,14 @@ public class CustomerController extends ApiRequest {
                 .addHeader("Authorization", "Bearer "+token.getToken())
                 .build();
     }
+<<<<<<< HEAD
 // check stash
     //checking git
     // git has been checked locally
+=======
+
+    //checking git
+>>>>>>> 9612ae8411b984dfc65141da082b1b2cd61e5d1a
     public AccountResponseDto getAllAccounts(){
         this.response = get(getEndpoint(API.getPath(),V1.getPath(), ACCOUNT.getPath()));
         return this.response.as(AccountResponseDto.class);
